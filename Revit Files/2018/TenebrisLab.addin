@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>TenebrisExport</Name>
+    <Assembly>TenebrisLab.dll</Assembly>
+    <FullClassName>TenebrisLab.App</FullClassName>
+    <ClientId>416df254-1f03-4cbb-8a86-7ead8261a511</ClientId>
+    <VendorId>TNBL</VendorId>
+    <VendorDescription>Tenebris Lab</VendorDescription>
+  </AddIn>
+</RevitAddIns>
